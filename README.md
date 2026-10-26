@@ -1,4 +1,4 @@
-# 📚 BokDags
+# BokDags
 
 BokDags is a modern book platform built with HTML, CSS, JavaScript, and Strapi CMS.
 
@@ -25,7 +25,7 @@ The project is deployed with:
 
 ---
 
-# 🌐 Live Demo
+# Live Demo
 
 Frontend:
 
@@ -37,16 +37,16 @@ Backend:
 
 ---
 
-# ✨ Features
+# Features
 
-## 👤 Authentication
+## Authentication
 
 * User registration
 * Login system
 * JWT-based authentication via Strapi
 * Protected admin page
 
-## 📚 Books
+## Books
 
 * Display all books
 * Search by title or author
@@ -56,19 +56,19 @@ Backend:
   * highest rated
 * Book detail modal
 
-## ⭐ Rating System
+## Rating System
 
 * Users can rate books from 1–10
 * Average ratings are displayed for every book
 * Ratings update dynamically from the backend
 
-## 💾 Saved Books
+## Saved Books
 
 * Save books to a personal “Want to Read” list
 * Personal profile page
 * View saved books and previous ratings
 
-## 🎨 Themes
+## Themes
 
 Three different themes:
 
@@ -78,7 +78,7 @@ Three different themes:
 
 Themes can be changed by the super admin.
 
-## 🛠 Admin Features
+## Admin Features
 
 Admins can:
 
@@ -89,7 +89,7 @@ Admins can:
 
 ---
 
-# 🧱 Technologies
+# Technologies
 
 ## Frontend
 
@@ -111,7 +111,7 @@ Admins can:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```txt
 bokdags/
@@ -136,7 +136,7 @@ bokdags/
 
 ---
 
-# ⚙️ Local Installation
+# Local Installation
 
 ## 1. Clone the repository
 
@@ -174,7 +174,7 @@ npm run develop
 
 ---
 
-# 🔐 Environment Variables
+# Environment Variables
 
 The backend uses the following environment variables:
 
@@ -188,7 +188,7 @@ JWT_SECRET=
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 <img width="1904" height="999" alt="Skärmbild 2026-05-12 125706" src="https://github.com/user-attachments/assets/4ac36a9c-a29e-49d8-a28d-c2d31a40ac42" />
 <img width="1906" height="998" alt="Skärmbild 2026-05-12 130120" src="https://github.com/user-attachments/assets/19855d35-627a-41a4-8574-7aa0ce172ef9" />
@@ -200,7 +200,7 @@ JWT_SECRET=
 
 ---
 
-# 🚀 Deployment
+# Deployment
 
 ## Frontend
 
@@ -212,7 +212,7 @@ Deployed with Strapi Cloud.
 
 ---
 
-# 👩‍💻 Created By
+# Created By
 
 Victoria Friberg
 
